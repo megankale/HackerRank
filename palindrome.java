@@ -1,3 +1,5 @@
+package HackerRank;
+
 import java.util.Scanner;
 //length/2 = even length strings
 //length-1/2 = odd length strings
