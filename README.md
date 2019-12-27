@@ -1,5 +1,4 @@
 # HackerRank
-Hackerrank coding challenges
 
 <b>Counting Valleys</b>
   
@@ -14,3 +13,13 @@ It must return an integer that denotes the number of valleys Gary traversed.
 countingValleys has the following parameter(s):
 n: the number of steps Gary takes
 s: a string describing his path
+
+<b>Sock Merchant</b>
+
+Given an array of integers representing the color of each sock, determine how many pairs of socks with matching colors there are. 
+
+Function Description</br>
+It must return an integer representing the number of matching pairs of socks that are available.
+sockMerchant has the following parameter(s):
+n: the number of socks in the pile
+ar: the colors of each sock
