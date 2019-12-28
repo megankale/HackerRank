@@ -14,6 +14,16 @@ countingValleys has the following parameter(s):
 n: the number of steps Gary takes
 s: a string describing his path
 
+<b>EqualizeArray</b>
+
+Karl has an array of integers. He wants to reduce the array until all remaining elements are equal. Determine
+the minimum number of elements to delete to reach his goal.
+
+Function Description</br>
+It must return an integer that denotes the minimum number of deletions required.
+equalizeArray has the following parameter(s):
+arr: an array of integers
+
 <b>Sock Merchant</b>
 
 Given an array of integers representing the color of each sock, determine how many pairs of socks with matching colors there are. 
