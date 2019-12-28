@@ -50,3 +50,13 @@ You are given a number of sticks of varying lengths. You will iteratively cut th
 Function Description</br>
 It should return an array of integers representing the number of sticks before each cut operation is performed.
 cutTheSticks has the following parameter(s):arr: an array of integers representing the length of each stick
+
+<b> Non Divisible Subset </b>
+
+Given a set of distinct integers, print the size of a maximal subset of S where the sum of any 2 numbers in S' is not evenly divisible by k.
+
+Function Description</br>
+It should return an integer representing the length of the longest subset of  meeting the criteria.
+nonDivisibleSubset has the following parameter(s):
+S: an array of integers
+k: an integer
