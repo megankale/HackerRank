@@ -60,3 +60,14 @@ It should return an integer representing the length of the longest subset of  me
 nonDivisibleSubset has the following parameter(s):
 S: an array of integers
 k: an integer
+
+<b> Repeated String </b>
+
+Lilah has a string, , of lowercase English letters that she repeated infinitely many times.
+Given an integer, , find and print the number of letter a's in the first  letters of Lilah's infinite string.
+
+Function Description</br>
+It should return an integer representing the number of occurrences of a in the prefix of length  in the infinitely repeating string.
+repeatedString has the following parameter(s):
+s: a string to repeat
+n: the number of characters to consider

@@ -9,7 +9,6 @@ public class nonDivSubset {
 		Scanner scan = new Scanner(System.in);
 		int N = scan.nextInt();
 		int K = scan.nextInt();
-		
 		int subsetCardinality = 0;
 		int[] modBuckets = new int[K];
 
@@ -37,5 +36,7 @@ public class nonDivSubset {
 			subsetCardinality += Math.max(modBuckets[j], modBuckets[K - j]);
 		}
 		System.out.println(subsetCardinality);
+		scan.close();
+		
     }
 }
